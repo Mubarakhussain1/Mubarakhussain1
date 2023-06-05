@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mubarakhussain1
+- 👋 Hi, I’m Mubarak Hussain
 - 👀 I’m interested in data Science,AI,Machine Learning,Statistics etc.
 - 🌱 I’m currently Looking for Data Analytics Job.
 - 📫 Reach me @ mdrehan77790@gmail.com, +919880284060
