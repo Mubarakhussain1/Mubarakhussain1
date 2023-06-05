@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mubarak Hussain
 - 👀 I’m interested in data Science,AI,Machine Learning,Statistics etc.
 - 🌱 I’m currently Looking for Data Analytics Job.
-- Graduate from- M S Ramaiah Institite of Technology (Banglore)
+- Graduate in Electronics & Instrumentation from Ramaiah Institite of Technology,Banglore (RIT)
 - PGP - Master's Program In Data Science,Prudue University (simplilearn).
 - 📫 Reach me @ mdrehan77790@gmail.com, +919880284060
 
