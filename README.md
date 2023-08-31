@@ -3,7 +3,7 @@
 - 🌱 I’m currently Looking for Data Analytics Job.
 - Graduate in Electronics & Instrumentation from Ramaiah Institute of Technology,Bangalore (RIT)
 - PGP - Master's Program In Data Science,Prudue University (simplilearn).
-- 📫 Reach me @ mdrehan77790@gmail.com, +919880284060
+- 📫 Reach me @ mdmubarakhussain19@gmail.com, +918252089439
 
 <!---
 Mubarakhussain1/Mubarakhussain1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
