@@ -1,4 +1,4 @@
-Mubarak Hussain - Data Analyst
+##Mubarak Hussain - Data Analyst
 Email: mdmubarakhussain19@gmail.com
 Phone: +91 82520 89439
 Location: Bengaluru, India
